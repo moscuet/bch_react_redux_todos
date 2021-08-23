@@ -1,4 +1,10 @@
 
+## To Do list
+
+### React Redux app
+
+A basic react redux app for the assignment of  Redux course, fall semester, Business College Helsinki.
+
 
 
 
